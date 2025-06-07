@@ -9,6 +9,7 @@
 🚀 I'm a final-year Computer Science B.Tech student at Rajiv Gandhi Institute of Petroleum and Technology (an Institute of National Importance) in India. Originally from Lucknow, I'm now actively seeking development roles to begin my professional career after graduation.
 
 💡 Always exploring new tech by diving into open-source codebases. Focused on Full-stack development and cloud computing.
+
 🚀 Created [GitHubFolio](https://www.githubfolio.in/), an AI-powered tool that analyzes GitHub profiles for code quality, documentation, and security, with 1500+ visitors since launch.
 
 📬 Let's connect:
