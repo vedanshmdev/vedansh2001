@@ -6,9 +6,10 @@
 
 <h2 align="center">👋 Hey there! I'm Vedansh - A Full Stack Developer Crafting Digital Experiences from India</h2>
 
-🚀 Final year CS student passionate about building impactful projects. Currently building GitHubfolio - a tool that generates customized GitHub portfolios from usernames. [Live](http://github-folio.vercel.app/)
+🚀 I'm a final-year Computer Science B.Tech student at Rajiv Gandhi Institute of Petroleum and Technology (an Institute of National Importance) in India. Originally from Lucknow, I'm now actively seeking development roles to begin my professional career after graduation.
 
 💡 Always exploring new tech by diving into open-source codebases. Focused on Full-stack development and cloud computing.
+🚀 Created [GitHubFolio](https://www.githubfolio.in/), an AI-powered tool that analyzes GitHub profiles for code quality, documentation, and security, with 1500+ visitors since launch.
 
 📬 Let's connect:
 
@@ -21,7 +22,7 @@
   <a href="https://www.linkedin.com/in/vedansh2001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="http://new-portfolio-bucket.s3-website.ap-south-1.amazonaws.com/" target="_blank">
+  <a href="https://vedanshdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio"  />
   </a>
   <a href="https://twitter.com/vedanshm2001" target="_blank">
